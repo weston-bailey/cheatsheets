@@ -12,7 +12,8 @@ Here are the steps to spin up a flask server:
 * touch the main entrypoint for your flask app, such as `app.py`
 * touch `.flaskenv` and populate it with the needed environmental variables to config flask
   * .flaskenv doesn't need to be in the .gitignore, it is for flask configuration only. But if you have any API keys or other secrets, you can touch a `.env` file and put them in there.
-```sh
+
+```bash
 # example .flaskenv
 # this will enable debug mode in flask
 FLASK_ENV=development
@@ -21,7 +22,9 @@ FLASK_APP=app.py
 # this is the port to listen on (default is 5000 if you don't specify)
 FLASK_RUN_PORT=3000
 ```
+
 * populate your flask app's entry point file:
+
 ```python
 # in app.py
 
@@ -36,8 +39,10 @@ app = Flask(__name__)
 def hello_world():
   return 'Hello from Flask 👋'
 ```
+
 * use `flask run` to run your app!
 * If you have secret API keys in a `.env` file, you can access them like this:
+
 ```python
 # import dotenv
 from dotenv import load_dotenv
@@ -48,6 +53,7 @@ import os
 print(os.environ['MY_BIG_SECRET'])
 ```
 * the corresponding `.env` file would look like this:
+
 ```sh
 # in .env
 MY_BIG_SECRET='pls dont tell anyone my secrets 🙏🏻😳'
