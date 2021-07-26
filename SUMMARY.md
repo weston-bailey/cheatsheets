@@ -33,28 +33,26 @@
 ### Python
 
 * [General Resources](./python/README.md)
-  * [Basics](./python/basics/basics.md)
-  * [Dictionaries](./python/basics/dictionaries.md)
-  * [Escape Characters](./python/basics/escape-characters.md)
-  * [Functions](./python/basics/functions.md)
-  * [Input](./python/basics/input.md)
-  * [Loops](./python/basics/loops.md)
-  * [Printing](./python/basics/printing.md)
-  * [Python](./python/basics/python.md)
-  * [Strings](./python/basics/strings.md)
-  * [Classes](./python/classes.md)
-
----
-#### Python Packages
-
-  * [Virtualenv](./python/packages/virtualenv.md)
-  * [Flask](./python/packages/flask.md)
-  * [Pymongo](./python/packages/pymongo.md)
-  * [SQLAlchemy](./python/packages/sqlalchemy.md)
+* [Basics](./python/basics/basics.md)
+* [Dictionaries](./python/basics/dictionaries.md)
+* [Escape Characters](./python/basics/escape-characters.md)
+* [Functions](./python/basics/functions.md)
+* [Input](./python/basics/input.md)
+* [Loops](./python/basics/loops.md)
+* [Printing](./python/basics/printing.md)
+* [Python](./python/basics/python.md)
+* [Strings](./python/basics/strings.md)
+* [Classes](./python/classes.md)
+* [Unittest](./python/unittest.md)
+* [Virtualenv](./python/packages/virtualenv.md)
+* [Flask](./python/packages/flask.md)
+* [Pymongo](./python/packages/pymongo.md)
+* [SQLAlchemy](./python/packages/sqlalchemy.md)
 
 ### C langauge
 
 * [C Langauge](./clang/clang-basic.md)
+* [Testing with cgreen](./clang/clang-cgreen.md)
 
 ### Markdown
 
