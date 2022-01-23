@@ -70,9 +70,8 @@
 
 ### Development Tools
 
-<!-- [Git](./git) -->
-<!-- * [Shell](./shell) -->
-
+[Git](./dev-tools/git.md)
+<!-- * [Bash](./dev-tools/bash.md) -->
 * [Chrome Dev Tools](./dev-tools/chrome-dev-tools.md)
 * [Homebrew](./dev-tools/chrome-dev-tools.md)
 
@@ -87,5 +86,3 @@
 
 <!-- algorithms and data structures -->
 <!-- * [Algorithms and Data Structures](./algorithms-data-structures/) -->
-
-
