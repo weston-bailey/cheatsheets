@@ -70,7 +70,7 @@
 
 ### Development Tools
 
-[Git](./dev-tools/git.md)
+* [Git](./dev-tools/git.md)
 <!-- * [Bash](./dev-tools/bash.md) -->
 * [Chrome Dev Tools](./dev-tools/chrome-dev-tools.md)
 * [Homebrew](./dev-tools/chrome-dev-tools.md)
@@ -79,10 +79,13 @@
 
 ### Editors
 
-* [Vim](./vim/vim.md)
 * [Vs Code](./vscode/vscode.md)
 
 ### Computer Science
 
 <!-- algorithms and data structures -->
 <!-- * [Algorithms and Data Structures](./algorithms-data-structures/) -->
+
+### Linux 
+
+* [Linux](./linux/README.md)
